@@ -17,7 +17,7 @@ public class Gravity {
 
     double f = G * M * mR[0] / (mR[1] * mR[1]);
 
-    System.out.printf("%.3e\n", f);
+    System.out.printf("%.3e%n", f);
   }
 
 }
