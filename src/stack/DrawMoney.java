@@ -7,7 +7,6 @@ import java.util.Arrays;
 import java.util.Stack;
 
 public class DrawMoney {
-
   // doing what to find the max? 1: 枚举 -> 最简单, 最直接, 是否可以dp实现?
   // 已经拿了一个, 拿2个, 状态转移函数? 这个算法不行.
   // 假设 最后一个栈注定不拿, 那么前6个里面有一个最优方案; base case, 如果6个栈都不拿, 那么只拿一个栈, 就是尽可能的拿 (可能拿不满钱包)
