@@ -1,4 +1,4 @@
-package com;
+package hw1;
 
 public class Pi {
   static Double TEMP = 640320.0;
