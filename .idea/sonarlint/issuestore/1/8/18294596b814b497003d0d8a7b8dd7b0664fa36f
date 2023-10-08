@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø»§Õ
+j
+java:S3008"ORename this field "TEMP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê®ÿêýÿÿÿÿ
+@	java:S106	"+Replace this use of System.out by a logger.(ªÇ€Ò
+E	java:S106
+"+Replace this use of System.out by a logger.(¹¿µƒÿÿÿÿÿ

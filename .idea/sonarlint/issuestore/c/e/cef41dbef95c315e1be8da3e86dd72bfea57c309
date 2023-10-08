@@ -1,0 +1,8 @@
+
+\
+java:S2184"@Cast one of the operands of this addition operation to a "long".(Ö¯¼8Á¬º ­1
+k	java:S116"ORename this field "_arr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¸öÅ8þ­¥ ­1
+u	java:S116"TRename this field "_capacity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žª ¾ýÿÿÿÿ8ÿ­¥ ­1
+x	java:S116"WRename this field "_currentSize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÌÒŠþÿÿÿÿ8ÿ­¥ ­1
+L	java:S106V"+Replace this use of System.out by a logger.(¸¸í©ýÿÿÿÿ8ˆ®¥ ­1
+L	java:S106X"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ˆ®¥ ­1

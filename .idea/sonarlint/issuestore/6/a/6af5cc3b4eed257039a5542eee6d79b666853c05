@@ -1,0 +1,22 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ïÅ¼•ıÿÿÿÿ8Ú—¡­1
+G	java:S106"+Replace this use of System.out by a logger.(ø¦²8ß—¡­1
+L	java:S106""+Replace this use of System.out by a logger.(§´ÔÒüÿÿÿÿ8à—¡­1
+L	java:S106%"+Replace this use of System.out by a logger.(¾¦¹Ôıÿÿÿÿ8à—¡­1
+Y
+java:S18541"7Remove this useless assignment to local variable "in1".(è€’¥üÿÿÿÿ8á—¡­1
+L	java:S106?"+Replace this use of System.out by a logger.(ìÑÑÈÿÿÿÿÿ8ã—¡­1
+L	java:S106A"+Replace this use of System.out by a logger.(óŠÕÎÿÿÿÿÿ8ã—¡­1
+8
+java:S2153E"Remove the boxing of "in2".( µë–8·“·­1
+o
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ö™ÿ8¸“·­1
+E
+java:S1481Q"(Remove this unused "in3" local variable.(÷Ë‡8Ç°·­1
+L	java:S106a"+Replace this use of System.out by a logger.(ÁöÒ†ùÿÿÿÿ8º“·­1
+G	java:S106d"+Replace this use of System.out by a logger.(˜µÄğ8º“·­1
+F	java:S106h"+Replace this use of System.out by a logger.(¸ØïU8º“·­1
+G	java:S106k"+Replace this use of System.out by a logger.(ŞñÂÏ8»“·­1
+F	java:S106p"+Replace this use of System.out by a logger.(¸ØïU8»“·­1
+G	java:S106s"+Replace this use of System.out by a logger.(ŞñÂÏ8»“·­1

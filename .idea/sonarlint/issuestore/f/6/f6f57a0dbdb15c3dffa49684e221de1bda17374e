@@ -1,0 +1,22 @@
+
+r	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö®°şÿÿÿÿ8Ç©¥Ø¯1
+r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•õâÇşÿÿÿÿ8È©¥Ø¯1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷®ïÈûÿÿÿÿ
+h
+java:S3008"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ–x8•œØ¯1
+‚
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(¬Ô¹¾8ö‚’Ø¯1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ïÅ¼•ıÿÿÿÿ8ö‚’Ø¯1
+F
+java:S2440")Remove this instantiation of "MergeSort".(ÚÆüØ8»éÒî¯1
+R
+java:S2209"5Change this instance-reference to a static reference.(Öú¨Å8ÏéÒî¯1
+L	java:S106"+Replace this use of System.out by a logger.(Ó»æøÿÿÿÿÿ8—„’Ø¯1
+M
+java:S2440#"+Remove this instantiation of "GuessNumber".(Š¯ÕÚÿÿÿÿÿ8ÏéÒî¯1
+G	java:S106$"+Replace this use of System.out by a logger.(€Å‰Œ8ÄœØ¯1
+R
+java:S2209$"5Change this instance-reference to a static reference.(€Å‰Œ8ÔéÒî¯1
+L	java:S1067"+Replace this use of System.out by a logger.(Š••–üÿÿÿÿ8­¬¥Ø¯1
+G	java:S106:"+Replace this use of System.out by a logger.(Ó¦Â8­¬¥Ø¯1

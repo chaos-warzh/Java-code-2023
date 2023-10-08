@@ -1,0 +1,25 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷®ïÈûÿÿÿÿ8•Ñªï¯1
+n
+java:S1223)"LRename this method to prevent any misunderstanding or make it a constructor.(ëµ¿¶ùÿÿÿÿ8•Ñªï¯1
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ÌèŠ®úÿÿÿÿ8µÑªï¯1
+‡
+java:S1149	"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(äÃäÔûÿÿÿÿ8µÑªï¯1
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(÷º×Âúÿÿÿÿ8µÑªï¯1
+‡
+java:S1149)"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëµ¿¶ùÿÿÿÿ8µÑªï¯1
+‡
+java:S1149)"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(ëµ¿¶ùÿÿÿÿ8µÑªï¯1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌèŠ®úÿÿÿÿ8µÑªï¯1
+W
+java:S1854"5Remove this useless assignment to local variable "r".(Ô¶®Òüÿÿÿÿ8µÑªï¯1
+`
+java:S1659">Declare "m" and all following declarations on a separate line.(Ô¶®Òüÿÿÿÿ8µÑªï¯1
+H
+java:S1481"&Remove this unused "r" local variable.(Ô¶®Òüÿÿÿÿ8µÑªï¯1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷º×Âúÿÿÿÿ8µÑªï¯1
+8
+java:S3626 "Remove this redundant jump.(ûÁÝ…8µÑªï¯1
+o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëµ¿¶ùÿÿÿÿ8ºÑªï¯1
