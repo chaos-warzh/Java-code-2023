@@ -8,8 +8,6 @@ C
 src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-E
-src/hw2/Obstacle.java,8\a\8aaff26adaf6441cb105b482f2927090d492f30b
 H
 src/stack/DrawMoney.java,1\0\10d654632216ae32758fde04999bd208307c4bb8
 T
@@ -46,3 +44,5 @@ T
 $src/datastructures2/GuessNumber.java,b\3\b35709e7f867a97af20773147bd163ccd47e06bc
 O
 src/datastructures2/MyHeap.java,e\a\ead1b79d75eaa286f51766a79810f8f4add467a7
+D
+src/hw2/StandUp.java,0\5\058bf5c67dd5ee07922489277bf87a3d01ed473a
