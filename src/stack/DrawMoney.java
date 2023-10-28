@@ -30,17 +30,6 @@ public class DrawMoney {
         preSum[j] = preSum[j - 1] + canisters[i][j];
       }
       // 更新maxGainList
-      if (i == 0) {
-        for (int j = 1; j <= cap; j++) {
-          if (j >= preSum.length) {
-            maxGainList[j] = maxGainList[j - 1];
-          } else {
-            maxGainList[j] = preSum[j];
-          }
-        }
-        continue;
-      }
-
       int[] nowMaxGainList = new int[cap + 1];
 
       for (int j = 1; j < preSum.length && j <= cap; j++) {
